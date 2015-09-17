@@ -1,0 +1,7 @@
+{
+    "name": "tiny-queue",
+    "version": "0.0.1",
+    "author": "Austin David <austin@austindavid.com>",
+    "license": "MIT",
+    "description": "A tiny (RAM-efficient) queue data structure"
+}
